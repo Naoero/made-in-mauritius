@@ -2,12 +2,8 @@
 items:
   - Humeira/made-in-Mauritius
   - Nayar/KDE-for-Mauritius
-  - mscraftsman/devcon2015
-  - mscraftsman/devcon2016
-  - mscraftsman/devcon2017
-  - mscraftsman/devcon2018
+  - sjdvda/myt-usage-checker
   - mscraftsman/devcon2019
-  - mscraftsman/devcon2018
   - percymamedy/laravel-dev-booter
   - findbrok/php-watson-api-bridge
   - findbrok/laravel-personality-insights
@@ -17,7 +13,14 @@ items:
   - jcplaboratory/rashell
   - Abdur-rahmaanJ/greenBerry
   - Abdur-rahmaanJ/honeybot
+  - Abdur-rahmaanJ/meteomoris
   - cedpoilly/vue-gapi
+  - reallyaditya/mauritius-speedtest
+  - MrSunshyne/mauritius-fuel-prices
+  - MrSunshyne/mauritius-dataset-electricity
+  - MrSunshyne/mauritius-sea-cable
+  - MrSunshyne/covid19-mauritius
+  - MrSunshyne/mauritius-power-outages
 display_name: Made in Mauritius
 created_by: Naoero
 image: made-in-mauritius.png
